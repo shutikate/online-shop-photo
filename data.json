@@ -765,23 +765,6 @@
       },
       {
           "id": 45,
-          "title": "Round Silver Frame Sun Glasses",
-          "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-          "price": 19,
-          "discountPercentage": 10.1,
-          "rating": 4.94,
-          "stock": 78,
-          "brand": "Designer Sun Glasses",
-          "category": "sunglasses",
-          "thumbnail": "https://raw.githubusercontent.com/shutikate/online-shop-photo/main/photo-shop-2/product-45-1.jpg",
-          "images": [
-              "https://raw.githubusercontent.com/shutikate/online-shop-photo/main/photo-shop-2/product-45-1.jpg",
-              "https://raw.githubusercontent.com/shutikate/online-shop-photo/main/photo-shop-2/product-45-2.jpg",
-              "https://raw.githubusercontent.com/shutikate/online-shop-photo/main/photo-shop-2/product-45-3.jpg"
-          ]
-      },
-      {
-          "id": 46,
           "title": "Kabir Singh Square Sunglass",
           "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
           "price": 50,
@@ -799,7 +782,7 @@
           ]
       },
       {
-          "id": 47,
+          "id": 46,
           "title": "LouisWill Men Sunglasses",
           "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
           "price": 50,
@@ -816,7 +799,7 @@
           ]
       },
       {
-          "id": 48,
+          "id": 47,
           "title": "lighting ceiling kitchen",
           "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
           "price": 30,
@@ -835,7 +818,7 @@
           ]
       },
       {
-          "id": 49,
+          "id": 48,
           "title": "Metal Ceramic Flower",
           "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
           "price": 35,
@@ -853,7 +836,7 @@
           ]
       }
   ],
-  "total": 49,
+  "total": 48,
   "skip": 0,
-  "limit": 49
+  "limit": 48
 }
